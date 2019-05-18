@@ -1,0 +1,5 @@
+usr=juanr;nom=Juan Rodriguez;txt=hola estoy feliz de estar aquí en el #lago
+usr=juanr;nom=Juan Rodriguez;txt=hola estoy feliz de estar aquí en el #lago
+usr=lolalinda;nom=Lolita Turres;txt=hola estoy feliz de estar aquí en el #lago
+usr=francisb;nom=Francisca Benini;txt=hola estoy feliz de estar aquí en el #lago
+usr=juanr;nom=Juan Rodriguez;txt=hola estoy feliz de estar aquí en el #lago
